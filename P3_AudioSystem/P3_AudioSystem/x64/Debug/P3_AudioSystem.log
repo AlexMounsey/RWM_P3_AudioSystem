@@ -1,0 +1,15 @@
+﻿  AudioManager.cpp
+c:\users\user\desktop\p3\p3\p3_audiosystem\p3_audiosystem\block.h(9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\p3\p3\p3_audiosystem\p3_audiosystem\block.h(10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\p3\p3\p3_audiosystem\p3_audiosystem\block.h(11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\p3\p3\p3_audiosystem\p3_audiosystem\block.h(12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\p3\p3\p3_audiosystem\p3_audiosystem\block.h(24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\p3\p3\p3_audiosystem\p3_audiosystem\block.h(25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\p3\p3\p3_audiosystem\p3_audiosystem\audiomanager.cpp(202): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\p3\p3\p3_audiosystem\p3_audiosystem\audiomanager.cpp(203): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\p3\p3\p3_audiosystem\p3_audiosystem\audiomanager.cpp(253): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\p3\p3\p3_audiosystem\p3_audiosystem\audiomanager.cpp(258): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\user\desktop\p3\p3\p3_audiosystem\p3_audiosystem\audiomanager.cpp(259): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\user\desktop\p3\p3\p3_audiosystem\p3_audiosystem\audiomanager.cpp(260): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  P3_AudioSystem.vcxproj -> C:\Users\User\Desktop\P3\P3\P3_AudioSystem\x64\Debug\P3_AudioSystem.exe
+  P3_AudioSystem.vcxproj -> C:\Users\User\Desktop\P3\P3\P3_AudioSystem\x64\Debug\P3_AudioSystem.pdb (Full PDB)
